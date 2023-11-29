@@ -1,5 +1,7 @@
 # Conway's Game of Life in C
 
+![Game of life gif](./gol.gif)
+
 ## Compile
 
 `gcc game.c -o game`
